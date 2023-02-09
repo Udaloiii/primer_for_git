@@ -7,6 +7,9 @@ function App() {
   return (
     <div className="App">
       <User/>
+      adasasd
+        adadda
+        qdd
       <Posts/>
     </div>
   );
